@@ -6,3 +6,5 @@ In this project, you will run statistical tests and models using the Cleveland h
 **Objectives:**
 1) Manipulate the data and use statistical tests to see which predictors are related to heart disease as indicated by the `class` column. Adjust the `class` column to be binary where `0` indicates no heart disease and `1` represents the presence of heart disease. Save the three features with the highest significance to a list called `highly_significant`.
 2) Fit a model using your highly significant features to predict the likelihood of heart disease, adjusting the results to be a binary outcome for probabilities greater than 0.5. Calculate and save the following model metrics: accuracy as a numeric variable `accuracy`, and the confusion matrix as `confusion`.
+
+This project was done in October, 2025. Machine learning was utilized in this project.
